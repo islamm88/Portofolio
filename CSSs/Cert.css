@@ -69,6 +69,11 @@ main
                     color: var(--num2-color);
                     cursor: pointer;
                 }
+                & .open ,
+                & .download
+                {
+                    font-size: 0.8em;
+                }
 
             }
 
